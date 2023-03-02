@@ -229,7 +229,7 @@ form > p {
 form > input {
     margin: 9px 0;
     padding: 10px;
-    height: 17px;
+    height: 20px;
 }
 
 input::-webkit-outer-spin-button,
